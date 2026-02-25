@@ -1,9 +1,4 @@
-Here’s a polished, public-facing README you can use for GitHub.
-This version feels professional, clean, and aligned with real-world DevOps workflows.
-
----
-
-# Git & DevOps Foundations Lab
+# Git & Github Foundations Lab
 
 **Hands-on Git, GitHub & CI Workflow Training**
 
