@@ -7,7 +7,6 @@ This repository contains a structured, industry-aligned lab manual designed to t
 📄 **Lab Manual (PDF):**
 👉 [Download STP_Notes.pdf](./STP_Notes.pdf) 
 
----
 
 ## Why This Repository Exists
 
@@ -25,8 +24,6 @@ It focuses on how real teams:
 
 The goal is not theory.
 The goal is confidence in real-world development flow.
-
----
 
 ## What This Covers
 
@@ -65,8 +62,6 @@ The lab progresses from fundamentals to structured team workflow.
 * Using `git reflog` to recover deleted commits
 * Understanding HEAD movement
 
----
-
 ## Lab Structure
 
 The training is structured in two phases:
@@ -86,8 +81,6 @@ Students apply:
 
 The project simulates a professional Git flow in a controlled environment.
 
----
-
 ## Tools Used
 
 * Git (Command Line)
@@ -99,16 +92,12 @@ No GUI dependency.
 No shortcuts.
 Pure workflow understanding.
 
----
-
 ## Who This Is For
 
 * Engineering students learning version control
 * Beginners transitioning to professional workflows
 * Trainers teaching Git & DevOps fundamentals
 * Developers who want to clean up their Git habits
-
----
 
 ## Industry Relevance
 
@@ -122,7 +111,6 @@ This lab mirrors real team practices:
 
 These are the same fundamentals used in production environments.
 
----
 
 ## Outcomes
 
@@ -133,24 +121,3 @@ After completing this lab, a learner can:
 * Handle merge conflicts calmly
 * Understand when and why CI runs
 * Recover from common Git mistakes without panic
-
----
-
-## Repository Usage
-
-You may:
-
-* Fork this repository for classroom use
-* Adapt it for internal DevOps training
-* Extend it with advanced CI/CD scenarios
-
-If you find it useful, consider starring the repository.
-
----
-
-If you'd like, I can also create:
-
-* A version tailored for recruiters
-* A README optimized for portfolio visibility
-* Or a badge-enhanced version (CI status, license, etc.)
-
